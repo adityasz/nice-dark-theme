@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>com.github.adityasz.theme</id>
+    <version>1.0.0</version>
+
+    <name>Nice Dark Theme</name>
+    <category>UI</category>
+
+    <vendor email="1adityasingh@proton.me" url="https://adityasz.github.io">Aditya Singh</vendor>
+
+    <idea-version since-build="232"/>
+
+    <description><![CDATA[
+    A nice dark theme. Adapted from Subtheme's Monokai Pro theme. I pair it with a colorscheme from the
+    VSCode Theme by Dinesh.
+  ]]></description>
+
+    <change-notes><![CDATA[
+    Initial release.
+  ]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="NiceDarkTheme" path="/theme/dark.theme.json"/>
+    </extensions>
+</idea-plugin>
