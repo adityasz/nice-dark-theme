@@ -1,13 +1,16 @@
-id: spectrum
-name: Monokai Pro (Filter Spectrum)
+id: dark
+name: Nice Dark Theme
 colors:
   # primary colors
-  red: "#fc618d"
+  red: "#ff453a"
   orange: "#fd9353"
-  yellow: "#fce566"
+  yellow: "#ccb000"
   green: "#7bd88f"
-  blue: "#5ad4e6"
+  blue: "#1c71d8"
   purple: "#948ae3"
+  cyan: "#5ac8f4"
+  brightblue: "#2c8aff"
+  paleblue: "#2e436e"
   # base colors
   base0: "#131313"
   base1: "#191919"

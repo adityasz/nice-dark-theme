@@ -1,19 +1,6 @@
-# Monokai Pro
+# A nice dark theme for JetBrains IDEs
 
-The unofficial Monokai Pro theme, adapted by [Subtheme](https://subtheme.dev). This repository includes the default theme, classic theme, and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: [https://monokai.pro](https://monokai.pro).
+Adapted from [Subtheme](https://github.com/subtheme-dev)'s [Monokai Pro theme](https://github.com/subtheme-dev/monokai-pro). I pair it with a colorscheme from [dinbtechit](https://github.com/dinbtechit)'s [VSCode Theme](https://github.com/dinbtechit/vscode-theme).
 
-Download the latest build from [Releases](https://github.com/subtheme-dev/monokai-pro/releases).
+![Screenshot](https://github.com/adityasz/nice-dark-theme/blob/main/screenshots/screenshot.png?raw=true)
 
-Supported apps:
-- [iTerm](theme/iterm)
-- [JetBrains](theme/jetbrains)
-- [Lapce](theme/lapce)
-- [Terminal](theme/terminal)
-
-To build, first install [sublate](https://github.com/espositocode/sublate):
-
-    $ pip install sublate
-
-Then, run the build script:
-
-    $ ./build.py
