@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.adityasz.theme</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 
     <name>Nice Dark Theme</name>
     <category>UI</category>
@@ -15,7 +15,7 @@
   ]]></description>
 
     <change-notes><![CDATA[
-    Initial release.
+    Minor tweaks.
   ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>
